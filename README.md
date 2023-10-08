@@ -27,4 +27,6 @@ L10
 
 6. Интерфейс
 
+![login screen](https://github.com/PavelE13/ARCH_L10-12/assets/94640966/117c4c7c-8a1f-42bb-9235-bfc731628eaa)
+
    
